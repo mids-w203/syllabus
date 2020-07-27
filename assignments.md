@@ -4,7 +4,7 @@ Assignments are due by 9:00am the day of your class. This table includes the wee
 
 | Week Due | Assignment Type     | Title                                 |
 |----------|---------------------|---------------------------------------|
-| 1        | Nothing Due! :tada: |                                       | 
+| 1        | Homework            | Getting Set Up                        | 
 | 2        | Homework            | Probability Spaces                    | 
 | 3        | Homework            | Random Variables                      | 
 | 4        | Homework & Test 1   | Summarizing Distributions & Prob Test | 
@@ -15,6 +15,6 @@ Assignments are due by 9:00am the day of your class. This table includes the wee
 | 9        | Lab 1               | Sampling & Testing Lab                |
 | 10       | Homework            | Regression                            |
 | 11       | Homework            | Descriptive Models                    | 
-| 12       | Homework            | Explanatory Models                    | 
-| 13       | Homework            | The CLM                               | 
+| 12       | Lab Work            | Explanatory Models                    | 
+| 13       | Lab Work            | The CLM                               | 
 | 14       | Lab 2               | Regression Analysis Lab               | 
