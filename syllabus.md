@@ -38,4 +38,4 @@ The teaching assistant team for the course is:
 
 # Course Schedule 
 
-{% include_relative schedule.md}
+{% include_relative schedule.md %}
