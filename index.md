@@ -6,6 +6,9 @@ A full syllabus is available at [this link](./syllabus.md).
 
 {% include_relative assignments.md %}
 
+{% include_relative ./labs/labs.md %}
+{% include_relative ./tests/test.md %}
+
 # Course Personnel 
 ## Instructors 
 
