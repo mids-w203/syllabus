@@ -19,7 +19,7 @@ There are no formal prerequisites to enroll in this course. However, a familiari
 # Course Materials 
 
 ## Required Textbooks 
-- The main text for the class is *Foundations of Agnostic Statistics*, written by Peter M. Aronow and Benjamin T. Miller. A physical copy of the book is available for approximately $30 ([Amazon Link](https://www.amazon.com/Foundations-Agnostic-Statistics-Peter-Aronow/dp/1316631141), [Cambridge University Press Link](https://www.cambridge.org/us/academic/subjects/politics-international-relations/research-methods-politics/foundations-agnostic-statistics?format=PB)). As well, for individuals who would like to have a digital copy of the book, it is available through the UC Library ([link](https://doi-org.libproxy.berkeley.edu/10.1017/9781316831762)). We keep a physical copy as a desk reference. 
+- The main text for the class is *Foundations of Agnostic Statistics*, written by Peter M. Aronow and Benjamin T. Miller. A physical copy of the book is available for approximately $30 ([Amazon Link](https://www.amazon.com/Foundations-Agnostic-Statistics-Peter-Aronow/dp/1316631141), [Cambridge University Press Link](https://www.cambridge.org/us/academic/subjects/politics-international-relations/research-methods-politics/foundations-agnostic-statistics?format=PB)). As well, for individuals who would like to have a digital copy of the book, it is available through the UC Library ([link](https://doi-org.libproxy.berkeley.edu/10.1017/9781316831762)).
 
 - The required, supplementary text for the course is *Probability and Statistics for Engineering and the Sciences*. We have pulled the key chapters that we will be using, and they are available for purchase (at a discount) through study.net. 
 
@@ -28,13 +28,13 @@ Much of the work for this course can be completed on the [UC Berkeley datahub](h
 
 # Grading 
 
-Grading for the course will following the following rubric
+Grading for the course will following the following rubric. All homework and assignments will be graded out of 100 points. 
 
-| Component                  | Percentage | 
-|----------------------------|------------| 
-| All Homework Combined      | 25%        | 
-| Probability Theory Test    | 10%        |  
-| CE, BLP, Sampling Test     | 10%        |  
-| Sampling Testing Lab       | 20%        |  
-| Regression Lab             | 25%        |  
-| Live Session Participation | 10%        |  
+| Component                   | Percentage | 
+|-----------------------------|------------| 
+| All Homework Combined       | 25%        | 
+| Test 1: Probability Theory  | 10%        |  
+| Test 2: CE, BLP, & Sampling | 10%        |  
+| Hypothesis Testing Lab      | 20%        |  
+| Linear Regression Lab       | 25%        |  
+| Live Session Participation  | 10%        |  

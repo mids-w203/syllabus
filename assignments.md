@@ -1,6 +1,6 @@
 # Assignments 
 
-Assignments are due by 9:00am the day of your class. This table includes the week the assignment is due, and a link to starter code.
+Assignments are due by 9:00am PT the day of your class. This table includes the week the assignment is due, and a link to starter code.
 
 | Week Due | Assignment Type     | Title                                 |
 |----------|---------------------|---------------------------------------|

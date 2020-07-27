@@ -15,4 +15,4 @@
 | 11   | Two   | Explanatory Model Building                  | FOAS 1  | HW         |
 | 12   | Three | The Classical Linear Model                  | FOAS 1  | HW         | 
 | 13   | Two   | Reproducible Research                       | FOAS 1  | --         | 
-| 14   | Zero  | No Async                                    | FOAS 1  | Lab        |  
+| 14   | Zero  | No Asynchronous Material                    | FOAS 1  | Lab        |  
