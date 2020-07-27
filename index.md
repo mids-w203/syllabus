@@ -1,4 +1,6 @@
-This is the quick access page for content that you're likely to use the most. A full syllabus is available at [this link](./syllabus.md). 
+Welcome to the quick access page for content that you're likely to use the most in **w203: Statistics for Data Science** at the *UC Berkeley School of Information*. 
+
+A full syllabus is available at [this link](./syllabus.md). 
 
 {% include_relative schedule.md %}
 
