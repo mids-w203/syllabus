@@ -35,3 +35,7 @@ The instructor team for the course is:
 The teaching assistant team for the course is:
 
 {% include_relative teaching_assistant_table.md %}
+
+# Course Schedule 
+
+{% include_relative schedule.md}
