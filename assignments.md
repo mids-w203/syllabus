@@ -16,5 +16,5 @@ Assignments are due by 9:00am PT the day of your class. This table includes the 
 | 10       | Homework            | Regression                            |
 | 11       | Homework            | Descriptive Models                    | 
 | 12       | Lab Work            | Explanatory Models                    | 
-| 13       | Lab Work            | The CLM                               | 
+| 13       | Homework            | The CLM                               | 
 | 14       | Lab 2               | Regression Analysis Lab               | 

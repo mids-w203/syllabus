@@ -37,4 +37,4 @@ Grading for the course will following the following rubric. All homework and ass
 | Test 2: CE, BLP, & Sampling | 10%        |  
 | Hypothesis Testing Lab      | 20%        |  
 | Linear Regression Lab       | 25%        |  
-| Live Session Participation  | 10%        |  
+| Class Session Participation | 10%        |  
