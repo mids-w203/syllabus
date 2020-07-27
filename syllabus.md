@@ -19,7 +19,9 @@ There are no formal prerequisites to enroll in this course. However, a familiari
 # Course Materials 
 
 ## Required Textbooks 
-We are using *Foundations of Agnostic Statistics*, written by Peter M. Aronow and Benjamin T. Miller. A physical copy of the book is available for approximately $30 ([Amazon Link](https://www.amazon.com/Foundations-Agnostic-Statistics-Peter-Aronow/dp/1316631141), [Cambridge University Press Link](https://www.cambridge.org/us/academic/subjects/politics-international-relations/research-methods-politics/foundations-agnostic-statistics?format=PB)). As well, for individuals who would like to have a digital copy of the book, it is available through the UC Library ([link](https://doi-org.libproxy.berkeley.edu/10.1017/9781316831762)). We keep a physical copy as a desk reference. 
+- The main text for the class is *Foundations of Agnostic Statistics*, written by Peter M. Aronow and Benjamin T. Miller. A physical copy of the book is available for approximately $30 ([Amazon Link](https://www.amazon.com/Foundations-Agnostic-Statistics-Peter-Aronow/dp/1316631141), [Cambridge University Press Link](https://www.cambridge.org/us/academic/subjects/politics-international-relations/research-methods-politics/foundations-agnostic-statistics?format=PB)). As well, for individuals who would like to have a digital copy of the book, it is available through the UC Library ([link](https://doi-org.libproxy.berkeley.edu/10.1017/9781316831762)). We keep a physical copy as a desk reference. 
+
+- The required, supplementary text for the course is *Probability and Statistics for Engineering and the Sciences*. We have pulled the key chapters that we will be using, and they are available for purchase (at a discount) through study.net. 
 
 ## Required Compute Resources 
 Much of the work for this course can be completed on the [UC Berkeley datahub](https://r.datahub.berkeley.edu/). Students may also run the course materials with the stable [`rocker/tidyverse`](https://hub.docker.com/r/rocker/tidyverse) image, or through a local install of [R](https://cran.rstudio.com) and [RStudio](https://rstudio.com/products/rstudio/download/#download). 
