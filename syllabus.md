@@ -26,16 +26,15 @@ There are no formal prerequisites to enroll in this course. However, a familiari
 ## Required Compute Resources 
 Much of the work for this course can be completed on the [UC Berkeley datahub](https://r.datahub.berkeley.edu/). Students may also run the course materials with the stable [`rocker/tidyverse`](https://hub.docker.com/r/rocker/tidyverse) image, or through a local install of [R](https://cran.rstudio.com) and [RStudio](https://rstudio.com/products/rstudio/download/#download). 
 
-# Course Personnel 
+# Grading 
 
-The instructor team for the course is:
+Grading for the course will following the following rubric
 
-{% include_relative instructor_table.md %}
-
-The teaching assistant team for the course is:
-
-{% include_relative teaching_assistant_table.md %}
-
-# Course Schedule 
-
-{% include_relative schedule.md %}
+| Component                  | Percentage | 
+|----------------------------|------------| 
+| All Homework Combined      | 25%        | 
+| Probability Theory Test    | 10%        |  
+| CE, BLP, Sampling Test     | 10%        |  
+| Sampling Testing Lab       | 20%        |  
+| Regression Lab             | 25%        |  
+| Live Session Participation | 10%        |  
