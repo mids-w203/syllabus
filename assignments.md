@@ -21,10 +21,8 @@ This page provides a summary of the assignments for the course, including the we
 
 # Description of Tests
 
-- [[Link]](./tests/probability_theory_test.md) The probability test is a 90 minute test that reviews your learning on probability theory. 
-- [[Link]](./tests/conditional_expectation_best_linear_predictor_sampling_test.md) The conditional expectation and best linear prediction test is a 90 minute test that reviews your continued learning on probability theory. 
+- [[Link]](./tests/index.md) Tests are short (90 minutes) timed assessments that occur twice, early in the course. 
 
 # Description of Labs 
 
-- [[Link]](./labs/testing_lab.md) Is a two-week long, group-project where you will write, explain, and justify hypothesis test that you conduct against data. 
-- [[Link]](./labs/regression_lab.md) Is a three-week long, group-project where you will write, explain, and justify a series of linear models that you build to explain relationships in data. 
+- [[Link]](./labs/index.md) Labs are two- or three-week long group-projects that occur twice, later in the course. 
