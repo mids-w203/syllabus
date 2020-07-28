@@ -4,7 +4,7 @@ Welcome to the quick access page for content that you're likely to use the most 
 - [[Link]](./assignments.md): Homework Assignments Schedule 
 - [[Link]](./tests/index.md): Description of Tests 
 - [[Link]](./labs/labs.md): Description of Labs 
-- [[Link]](./syllabus.md): Syllabus 
+- [[Link]](./syllabus.md): Description, Books, Grading, and Policies
 
 # Course Personnel and Availability 
 ## Instructors 
