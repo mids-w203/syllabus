@@ -15,7 +15,7 @@ Welcome to the quick access page for content that you're likely to use the most 
 | Alex Hughes       | @alex.h            | M/W/F: 12a  | Tu/Th: 12a   |
 | Gunnar Kleeman    | @gunnar            | M/W/F: 12a  | Tu/Th: 12a   |
 | Majid Maki-Nayeri | @Majid Maki-Nayeri | M/W/F: 12a  | Tu/Th: 12a   |
-| Oleg Malinokv     | @Oleg Melnikov     | M/W/F: 12a  | Tu/Th: 12a   |
+| Oleg Melinokv     | @Oleg Melnikov     | M/W/F: 12a  | Tu/Th: 12a   |
 
 ## Teaching Assistants and Tutors 
 
