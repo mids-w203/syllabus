@@ -7,24 +7,8 @@ Welcome to the quick access page for content that you're likely to use the most 
 - [[Link]](./syllabus.md): Description, Books, Grading, and Policies
 
 # Course Personnel and Availability 
-## Instructors 
 
-| Instructor        | Slack Handle       | Class Times | Office Hours |
-|-------------------|--------------------|-------------|--------------|
-| Paul Laskowski    | @paul              | M/W/F: 12a  | Tu/Th: 12a   |
-| Alex Hughes       | @alex.h            | M/W/F: 12a  | Tu/Th: 12a   |
-| Gunnar Kleeman    | @gunnar            | M/W/F: 12a  | Tu/Th: 12a   |
-| Majid Maki-Nayeri | @Majid Maki-Nayeri | M/W/F: 12a  | Tu/Th: 12a   |
-| Oleg Melinokv     | @Oleg Melnikov     | M/W/F: 12a  | Tu/Th: 12a   |
-
-## Teaching Assistants and Tutors 
-
-| Teaching Assistant | Slack       | Office Hours         |
-|--------------------|-------------|----------------------|
-| Todd Young         | @todd.young | Saturday at Midnight |
-| Jeremy Frankel     | @jeremy     | Sunday at Midnight   |
-| Lee Moore          | @lee        | Monday at Midnight   |
-
+{% include_relative schedule.md %}
 
 {% include_relative assignments.md %}
 
