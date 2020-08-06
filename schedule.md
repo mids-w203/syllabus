@@ -4,9 +4,12 @@
 |-------------------|--------------------|---------------|--------------|
 | Paul Laskowski    | @paul              | M 2:00 M 4:00 | Tu 2:00      |
 | Alex Hughes       | @alex.h            | T 2:00        | Tu/Th: 12a   |
-| Gunnar Kleeman    | @gunnar            | M/W/F: 12a    | Tu/Th: 12a   |
+| Lee Moore         | @lee               | M/W/F: 12a    | Tu/Th: 12a   |
 | Majid Maki-Nayeri | @Majid Maki-Nayeri | M/W/F: 12a    | Tu/Th: 12a   |
 | Oleg Melinokv     | @Oleg Melnikov     | M/W/F: 12a    | Tu/Th: 12a   |
+| Mark Labovitz     | @Mark L Labovitz   |               |              |
+| Sushovan Majhi    |                    |               |              | 
+| 
 
 ## Teaching Assistants
 
@@ -14,4 +17,4 @@
 |--------------------|-------------|----------------------|
 | Todd Young         | @todd.young | Saturday at Midnight |
 | Gurdit Chahal      | @gurdit_c   | Sunday at Midnight   |
-| Lee Moore          | @lee        | Monday at Midnight   |
+
