@@ -15,5 +15,5 @@
 | Teaching Assistant | Slack       | Office Hours         |
 |--------------------|-------------|----------------------|
 | Todd Young         | @todd.young | Saturday at Midnight |
-| Gurdit Chahal      | @gurdit_c   | Sunday at Midnight   |
+| Gurdit Chahal      | @gurdit_c   | W 11:30a   |
 
