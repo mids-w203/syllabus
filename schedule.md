@@ -7,7 +7,7 @@
 | Lee Moore         | @lee               | M/W/F: 12a    | Tu/Th: 12a   |
 | Majid Maki-Nayeri | @Majid Maki-Nayeri | M/W/F: 12a    | Tu/Th: 12a   |
 | Oleg Melinokv     | @Oleg Melnikov     | M/W/F: 12a    | Tu/Th: 12a   |
-| Mark Labovitz     | @Mark L Labovitz   |               |              |
+| Mark Labovitz     | @Mark L Labovitz   | Sa: 10a       | Su: 9a       |
 | Sushovan Majhi    |                    |               |              | 
 
 ## Teaching Assistants
