@@ -9,7 +9,6 @@
 | Oleg Melinokv     | @Oleg Melnikov     | M/W/F: 12a    | Tu/Th: 12a   |
 | Mark Labovitz     | @Mark L Labovitz   |               |              |
 | Sushovan Majhi    |                    |               |              | 
-| 
 
 ## Teaching Assistants
 
