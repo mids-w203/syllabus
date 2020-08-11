@@ -6,7 +6,7 @@
 | Alex Hughes       | @alex.h            | Tu: 2p         | M:  5:30p    |
 | Lee Moore         | @lee               | M:  6:30p      | F:  2p       |
 | Majid Maki-Nayeri | @Majid Maki-Nayeri | Tu: 6:30p      | Th: 5:30p    |
-| Oleg Melinokv     | @Oleg Melnikov     | T/W: 4-5p      | Sa: 5p       |
+| Oleg Melinokv     | @Oleg Melnikov     | T/W: 4p        | Sa: 5p       |
 | Mark Labovitz     | @Mark L Labovitz   | Sa: 10a        | Su: 9a       |
 | Sushovan Majhi    |                    |                |              | 
 
