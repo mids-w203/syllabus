@@ -24,7 +24,7 @@ The course begins with an introduction to probability theory, with pencil-and-pa
 ## Required Textbooks 
 - The main text for the class is *Foundations of Agnostic Statistics*, written by Peter M. Aronow and Benjamin T. Miller. A physical copy of the book is available for approximately $30 ([Amazon Link](https://www.amazon.com/Foundations-Agnostic-Statistics-Peter-Aronow/dp/1316631141), [Cambridge University Press Link](https://www.cambridge.org/us/academic/subjects/politics-international-relations/research-methods-politics/foundations-agnostic-statistics?format=PB)). As well, for individuals who would like to have a digital copy of the book, it is available through the UC Library ([link](https://doi-org.libproxy.berkeley.edu/10.1017/9781316831762)).
 
-- There is a required course packet, which you may purchase at study.net.  This includes select chapters from other textbooks.
+- There is a required course packet, which you may purchase at study.net.  This includes select chapters from other textbooks, namely *Probability and Statistics, 8th Edition* by Devore. 
 
 ## Required Compute Resources 
 Much of the work for this course can be completed on the [UC Berkeley datahub](https://r.datahub.berkeley.edu/). Students may also run the course materials with the stable [`rocker/tidyverse`](https://hub.docker.com/r/rocker/tidyverse) image, or through a local install of [R](https://cran.rstudio.com) and [RStudio](https://rstudio.com/products/rstudio/download/#download). 
