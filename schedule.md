@@ -3,12 +3,12 @@
 | Instructor        | Slack Handle       | Class Times     | Office Hours |
 |-------------------|--------------------|-----------------|--------------|
 | Paul Laskowski    | @paul              | M:   2p & M: 4p | Tu: 2a       |
-| Alex Hughes       | @alex.h            | Tu:  2p         | M:  5:30p    |
+| Alex Hughes       | @alex.h            | Tu:  2p         | Tu: 5:30p    |
 | Lee Moore         | @lee               | M:   6:30p      | F:  2p       |
 | Majid Maki-Nayeri | @Majid Maki-Nayeri | Tu:  6:30p      | Th: 5:30p    |
 | Oleg Melinokv     | @Oleg Melnikov     | T/W: 4p         | Sa: 5p       |
 | Mark Labovitz     | @Mark L Labovitz   | Sa:  10a        | Su: 9a       |
-| Sushovan Majhi    | @sush              | M:   2p & 4p    |              | 
+| Sushovan Majhi    | @sush              | M:   2p & 4p    | M:  5:30p    | 
 
 ## Teaching Assistants
 
