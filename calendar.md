@@ -2,7 +2,7 @@
 
 | Unit | Parts | Topic                                       | Reading | Assigned                    | Due                                |
 |------|-------|---------------------------------------------|---------|-----------------------------|------------------------------------|
-| 1    | Two   | Probability Spaces                          | FOAS 1  | Unit 1 HW                   |                                    |
+| 1    | Two   | Probability Spaces                          | FOAS 1.0-1.4  | Unit 1 HW                   |                                    |
 | 2    | Two   | Defining Random Variables                   | FOAS 1  | Unit 2 HW                   | Unit 1 HW                          |
 | 3    | Two   | Summarizing Distributions                   | FOAS 1  | Unit 3 HW                   | Unit 2 HW                          |
 | 4    | Two   | Conditional Expectation and The BLP         | FOAS 1  | Unit 4 HW & Test 1          | Unit 3 HW                          |
