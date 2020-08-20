@@ -1,7 +1,7 @@
 There are two tests: 
 
-1. [Probability Theory Test](./probability_theory_test.md)
-2. [Conditional Expectation, Best Linear Predictor, and Sampling Test](./conditional_expectation_best_linear_predictor_sampling_test.md)
+1. Probability Theory Test (covers material in units 1-3)
+2. Conditional Expectation, Best Linear Predictor, and Sampling Test (covers material in units 4-6)
 
 We have two goals with these tests. We have designed questions to allow you to demonstrate your capabilities on each of these goals. 
 
@@ -18,9 +18,9 @@ But, there is a reason for this artificial constraint: We want to provide intere
 
 We have also observed that the grade distribution on mathematical exams tends to be very unforgiving.  Because of this, we plan to curve the grades, to a roughly uniform distribution between 70% and 100%.
 
-## How the test will be structured 
+## How each test will be structured 
 
-- You will have a maximum of 3 hours to work on this test from the time you download it, to the time that you turn it back in. 
+- You will have a maximum of 3 hours to work on the test from the time you download it, to the time that you turn it back in. 
 - The questions will progress in difficulty.  The first questions will apply a single concept or calculation.  The last questions will require you to connect multiple concepts in creative ways to find a solution.
-- We expect that less than 5% of students will solve every problem.  Do not panic if you cannot solve some of them.
-- You must provide a proof for all questions.  It is not enough to compute the answer. 
+- We expect that fewer than 5% of students will solve every problem.  Do not panic if you cannot solve some of them.
+- You must provide a proof for all questions.  It is not enough to compute the answer.
