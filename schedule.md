@@ -17,3 +17,4 @@
 | Todd Young         | @todd.young      | W:  5:30-6:30p       |
 | Gurdit Chahal      | @gurdit_c        | W:  11:30a           |
 | Lesley Matheson    | @Lesley Matheson | Sa: 11a & Su 2p      |
+| Kevin Martin       | @kmart           | Su: 6p               |
