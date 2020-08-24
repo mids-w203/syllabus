@@ -14,3 +14,9 @@ Welcome to the quick access page for content that you're likely to use the most 
 
 ### About the image 
 The header image on this page is from the [*About South Hall*](https://www.ischool.berkeley.edu/about/southhall) page that the School maintains. The South Hall is the oldest building that still stands on campus. Ironically, we are both the oldest physical building still standing, and the School that first held classes in a digital classroom. The whole Berkeley campus has joined us online this semester. 
+
+# Slides 
+
+This is a listing of slides for the course. 
+
+- [Unit 1](./unit_01.html)
