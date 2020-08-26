@@ -5,7 +5,7 @@ Welcome to the quick access page for content that you're likely to use the most 
 - [[Link]](./tests/index.md): Description of Tests 
 - [[Link]](./labs/labs.md): Description of Labs 
 - [[Link]](./syllabus.md): Course Overview, Books, Grading, and Policies
-- [[Link]](https://github.com/mids-w203): The Couse GitHub Repository
+- [[Link]](https://github.com/mids-w203): The Course GitHub Repository
 
 # Course Personnel and Availability 
 
