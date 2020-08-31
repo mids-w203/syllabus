@@ -24,5 +24,5 @@ Assignments are due at the start of class for your section. This table includes 
 Mathematical exercises may be typeset using Latex, or hand-written and scanned, but you must ensure that the final file is easy to read. Instructors will not grade submissions with unusual file types or formatting that makes access difficult. When submitting assignments, please use the naming convention: First Name_Last Name_Assignment_Name.
 
 For any assignment that includes R work, you must submit two files (if R was not used, submit a single "output" file):
-1. an output file (.pdf or .html)
-2. a source file used to generate your output (**.Rmd** or .ipynb or .R) 
+1. An output file (.pdf, .html, or .md)
+2. The source file used to generate your output (**.Rmd** or .ipynb)
