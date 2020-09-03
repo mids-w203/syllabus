@@ -31,13 +31,46 @@ Much of the work for this course can be completed on the [UC Berkeley datahub](h
 
 ## Grading 
 
-Grading for the course will following the following rubric. All components will be graded out of 100 points. 
+Grading for the course will follow this rubric: 
 
 | Component                   | Percentage | 
 |-----------------------------|------------| 
 | All Homework Combined       | 25%        | 
-| Test 1: Probability Theory  | 10%        |  
-| Test 2: CE, BLP, & Sampling | 10%        |  
-| Hypothesis Testing Lab      | 20%        |  
-| Linear Regression Lab       | 25%        |  
-| Participation               | 10%        |  
+| Test 1: Probability Theory  | 10%        |
+| Test 2: CE, BLP, & Sampling | 10%        |
+| Hypothesis Testing Lab      | 20%        |
+| Linear Regression Lab       | 25%        |
+| Participation               | 10%        |
+
+On homework, each question sub-part will be graded out of three points, for mastery. This means that: 
+
+- (3 points): A sub-part that was fully correct and demonstrates that a student has mastery of that concept. 
+- (2 points): A sub-part that has substantially correct work, but that has any error
+- (1 point):  A sub-part that has been attempted, but has considerable errors
+- (0 points): A sub-part that has either not been attempted, or has been attempted in a way that communicates no understanding of the concept. 
+
+Students who are interested in knowing how to map percentage grades onto letter grades can use this table as a guideline: 
+
+| Letter Grade | Percentage   |
+| ------------ | ----------   |
+| A            | x >= 93      |
+| A-           | 90 <= x < 93 |
+| B+           | 87 <= x < 90 |
+| B            | 83 <= x < 87 |
+| B-           | 80 <= x < 83 |
+| C+           | 77 <= x < 80 |
+| C            | 73 <= x < 77 |
+| C-           | 70 <= x < 73 |
+| Lower Grades | x < 70       |
+
+## Late Policy 
+
+We set deadlines for homework, tests, and labs to be completed. These deadlines are to your advantage, becacuse they help you to prioritize your learning. At the same time, we understand that MIDS a single facet of the life that you live. 
+
+- **Homework**: Homework assignments are chances for you to apply the content that you have learned in the async and the live sessions. These occur at a regular (nearly weekly) pace. Homework is due _at the time that your live session meets_ on the day that it meets. 
+  - Students have five "late days" that they can use without penalty on homework through the semester. After those "late days" have been used, each day late will be assessed a 10% penalty from the final grade of that homework assignment. As an example, after using all five late days, a homework assignment turned in one day late could earn a maximum score of a 90% _on that homework_. 
+  - Students cannot turn in any single homework more than two days late. This balances the need for student flexibility, with the need to release feedback to other students in a section. For example, a student who has class on Monday at 4:00p cannot turn in an assignment later than Wednesday at 4:00p.
+- **Tests**: Tests count for a larger proportion of the final course grade, and happen less frequently. As a result, we would like tests to be completed on time.
+- **Labs**: The labs in the course are group projects. We will expect that labs are turned in for instructor review, in whatever state they are in, at the time they are due. 
+  
+We appreciate that these are challenging times. Please, be encouraged to talk with your instructor if you have a challenge that arises. We want to support your learning, not cause anxiety or stress. We will work with you to find an accomodation. 
