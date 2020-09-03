@@ -18,6 +18,4 @@ The header image on this page is from the [*About South Hall*](https://www.ischo
 
 # Slides 
 
-This is a listing of slides for the course. 
-
-- [Unit 1](./unit_01.html)
+Slides for the course are available in [this repository](https://github.com/mids-w203/slides).
