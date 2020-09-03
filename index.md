@@ -2,6 +2,7 @@ Welcome to the quick access page for content that you're likely to use the most 
 
 - [[Link]](./schedule.md): Instructors, Sections, Office Hours
 - [[Link]](./calendar.md): Calendar
+- [[Link]](https://github.com/mids-w203/slides): Lecture Slides
 - [[Link]](./tests/index.md): Description of Tests 
 - [[Link]](./labs/labs.md): Description of Labs 
 - [[Link]](./syllabus.md): Course Overview, Books, Grading, and Policies
