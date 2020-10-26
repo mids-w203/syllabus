@@ -8,7 +8,7 @@
 | Majid Maki-Nayeri | @Majid Maki-Nayeri | Tu:  6:30p         | Th: 5:30p    |
 | Oleg Melinokv     | @Oleg Melnikov     | T/W: 4p            | Sa: 5-7p     |
 | Mark Labovitz     | @Mark L Labovitz   | W: 6:30p & Sa: 10a | Su: 9-11a    | 
-| Sushovan Majhi    | @sush              | M:   2p & 4p       | M: 5:30p & F: 3:00 | 
+| Sushovan Majhi    | @sush              | M:   2p & 4p       | F: 2-4p      | 
 
 ## Teaching Assistants
 
