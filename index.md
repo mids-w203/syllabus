@@ -10,7 +10,7 @@ Welcome to the quick access page for content that you're likely to use the most 
 
 # Course Personnel and Availability 
 
-{% include_relative schedule.md %}
+{% include_relative instructors.md %}
 
 {% include_relative calendar.md %}
 
