@@ -12,9 +12,10 @@
 
 ## Teaching Assistants
 
-| Teaching Assistant | Slack            | Office Hours         |
-|--------------------|------------------|----------------------|
-| Todd Young         | @todd.young      | W:  5:30-6:30p       |
-| Gurdit Chahal      | @gurdit_c        | W:  11:30a           |
-| Lesley Matheson    | @Lesley Matheson | Su: 2p               |
-| Kevin Martin       | @kmart           | Su: 6p               |
+| Teaching Assistant | Slack                 | Office Hours         |
+|--------------------|-----------------------|----------------------|
+| Koohong Chung      | @KOOHONG (a.k.a Bill) | M:  5:30-6:30p       |
+| Todd Young         | @todd.young           | W:  5:30-6:30p       |
+| Gurdit Chahal      | @gurdit_c             | W:  11:30a           |
+| Lesley Matheson    | @Lesley Matheson      | Su: 2p               |
+| Kevin Martin       | @kmart                | Su: 6p - 7p          |
