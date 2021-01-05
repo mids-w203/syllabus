@@ -15,6 +15,6 @@
 | Teaching Assistant | Slack            | Office Hours         |
 |--------------------|------------------|----------------------|
 | Todd Young         | @todd.young      | W:  5:30-6:30p       |
-| Gurdit Chahal      | @gurdit_c        | Tu: 2p               |
+| Gurdit Chahal      | @gurdit_c        | Tu: 2:30p            |
 | Lesley Matheson    | @Lesley Matheson | Su: 2p               |
 | Kevin Martin       | @kmart           | Su: 6p               |
