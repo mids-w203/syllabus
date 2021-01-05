@@ -18,3 +18,4 @@
 | Gurdit Chahal      | @gurdit_c        | W:  11:30a           |
 | Lesley Matheson    | @Lesley Matheson | Su: 2p               |
 | Kevin Martin       | @kmart           | Su: 6p               |
+| Bill Chung         | @KOOHONG (a.k.a Bill)| M: 5:30p        |
