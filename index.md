@@ -14,6 +14,9 @@ Welcome to the quick access page for content that you're likely to use the most 
 
 {% include_relative calendar.md %}
 
+# Principles of Community 
+We affirm the UC Berkeley [Principles of Community](https://diversity.berkeley.edu/principles-community) and we endeavor to create a positive, supportive, and inclusive learning environment for all students and all of students' identities. If there is a part of your identity that you would like your instructors or classmates to recognize, please let us know however you are most comfortable.
+
 ### About the image 
 The header image on this page is from the [*About South Hall*](https://www.ischool.berkeley.edu/about/southhall) page that the School maintains. The South Hall is the oldest building that still stands on campus. Ironically, we are both the oldest physical building still standing, and the School that first held classes in a digital classroom. The whole Berkeley campus has joined us online this semester. 
 
