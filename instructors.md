@@ -17,5 +17,5 @@
 | Bill Chung         | @KOOHONG (a.k.a Bill) | M: 5:30p       |
 | Gurdit Chahal      | @gurdit_c             | Tu: 2:30p      |
 | Todd Young         | @todd.young           | W:  5:30-6:30p |
-| Lesley Matheson    | @Lesley Matheson      | Su: 2p         |
+| Lesley Matheson    | @Lesley Matheson      | Th: 6p         |
 | Kevin Martin       | @kmart                | Su: 6p         |
