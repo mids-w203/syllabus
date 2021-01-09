@@ -18,5 +18,5 @@
 | Todd Young         | @todd.young           | W:  5:30-6:30p |
 | Kevin Martin       | @kmart                | Th: 3:00p      |
 | Bill Chung         | @KOOHONG (a.k.a Bill) | Th: 5:30p      |
-| Lesley Matheson    | @Lesley Matheson      | Th: 6p         |
+| Lesley Matheson    | @Lesley Matheson      | Su: 6p         |
 
