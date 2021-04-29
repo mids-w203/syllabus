@@ -32,7 +32,7 @@ The course begins with an introduction to probability theory, with pencil-and-pa
 The following textbooks are not required but are available for those who would like extra practice problems and/or additional exploration of course concepts. Both are available through the UC library
 
 - _Modern Mathematical Statistics with Applications_ by Devore and Berk ([library link](https://link-springer-com.libproxy.berkeley.edu/book/10.1007%2F978-1-4614-0391-3)) is very readable and has lots of worked examples. It's a good complement to Aronow and Miller's concise mathematical language.
-- _Elementary Probability and Applications_ by Durrett ([library link](https://ebookcentral-proquest-com.libproxy.berkeley.edu/lib/berkeley-ebooks/detail.action?docID=461127)) has a lot of examples for you to work through. It's mostly examples. Only one person can have access to this ebook at a time, so to avoid blockages consider buying a physical textbook for lik $30 on [amazon](https://www.amazon.com/Elementary-Probability-Applications-Rick-Durrett-dp-0521867568/dp/0521867568/ref=mt_other?_encoding=UTF8&me=&qid=). 
+- _Elementary Probability and Applications_ by Durrett ([library link](https://ebookcentral-proquest-com.libproxy.berkeley.edu/lib/berkeley-ebooks/detail.action?docID=461127)) has a lot of examples for you to work through. It's mostly examples. Only one person can have access to this ebook at a time, so to avoid blockages consider buying a physical textbook for about $30 on [amazon](https://www.amazon.com/Elementary-Probability-Applications-Rick-Durrett-dp-0521867568/dp/0521867568/ref=mt_other?_encoding=UTF8&me=&qid=). 
 
 ## Required Compute Resources 
 Much of the work for this course can be completed on the [UC Berkeley datahub](https://r.datahub.berkeley.edu/). Students may also run the course materials in docker with the stable [`rocker/verse`](https://hub.docker.com/r/rocker/verse) image, or through a local install of [R](https://cran.rstudio.com) and [RStudio](https://rstudio.com/products/rstudio/download/#download). 
@@ -73,7 +73,7 @@ Students who are interested in knowing how to map percentage grades onto letter 
 
 ## Participation Policy
 
-Participation grades are assigned on participation in live session. It is expected that you will attend the entirety of your live sesson and regularly participate in class discussion. These grades are assigned on a pass/fail basis. If you attend less than 50% of live sessions (don't show up at all to the session or drop off early) you will recieve a zero for your participation grade. Otherwise, you will get full credit for these points.
+Participation is more than just showing up to class.  It includes being prepared, engaging actively, and treating others with respect to sustain a thriving learning environment.
 
 ## Academic Misconduct Policy
 This section covers acceptable and unacceptable conduct for the course. If you have any questions reach out to a member of the w203 intsructional staff.
@@ -83,8 +83,8 @@ We treat academic misconduct seriously and will refer cases of academic miscondu
 ### Acceptable Resources
 - [Wolfram Alpha](https://www.wolframalpha.com) is an online tool that can be used to solve all kinds of difficult numerical manipulations like differentiation and integration. You can use this on the tests and homework as you please (_this isn't a calculus class_) but when you use it, provide a reference so that your graders know how you got from one stage to the other. 
 - [Stack Overflow](https://www.stackoverflow.com) and other stack exchange sites. (_as long as you do not ask exact questions from the course_)
-- **Your fellow students** are invariably excellent individuals who will understand different aspects of statistics than you. Get together form study groups. As long as there's no copying and pasting you're fine.
-- Office hours! Between the section instructors and the TA's there are about a dozen office hours a week. Usually we'll end up covering the homework. It's worth your time to go.
+- **Your fellow students** are invariably excellent individuals who will understand different aspects of statistics than you. You are allowed to discuss homework with other students, but not tests.  For homework problems, strategize with other students as much as you like, but write down the people you work with on your submission, and write down your final solution yourself (do not copy from another student).
+- Office hours! Between the section instructors and the TA's there are about a dozen office hours a week. Usually we'll end up covering the homework.  A lot of great learning happens during these hours and we strongly recommend them.
 
 ### Unacceptable Resources
 - Chegg, Slader, CourseHero and similar resources where students post exact questions from the course which are answered by professional "tutors" or students at other universities are **unacceptable in all circumstances**. The instructional team regularly looks at solutions posted to these websites and if we notice solutions that are substantially similar to these sites we will refer the offending student to the Center for Student Conduct.
@@ -92,12 +92,12 @@ We treat academic misconduct seriously and will refer cases of academic miscondu
 
 ## Late Policy 
 
-We set deadlines for homework, tests, and labs to be completed. These deadlines are to your advantage, becacuse they help you to prioritize your learning. At the same time, we understand that MIDS a single facet of the life that you live. 
+We set deadlines for homework, tests, and labs to be completed. At the same time, we understand that MIDS is a single facet of the life that you live, and some delays are unavoidable. 
 
 - **Homework**: Homework assignments are chances for you to apply the content that you have learned in the async and the live sessions. These occur at a regular (nearly weekly) pace. **Homework is due _at the time that your live session meets_ on the day that it meets.** 
   - Students have **five "late days" that they can use without penalty** on homework through the semester. After those "late days" have been used, each day late will be assessed a 10% penalty from the final grade of that homework assignment. As an example, after using all five late days, a homework assignment turned in one day late could earn a maximum score of a 90% _on that homework_. 
   - Students **cannot turn in any single homework more than two days late.** This balances the need for student flexibility, with the need to release feedback to other students in a section. For example, a student who has class on Monday at 4:00p cannot turn in an assignment later than Wednesday at 4:00p.
-  - _Note on Gradescope due dates:_ Gradescope is the online platform that we use for homework. The due dates shown on gradescope are there to accomodate the last section of the week. You still must turn in your assignments before your live session meets. Lateness will be evaluated at the end of the quarter. When final grades are tallied. You must track how many late days you have used
+  - _Note on Gradescope due dates:_ Gradescope is the online platform that we use for homework. The due dates shown on gradescope are there to accomodate the last section of the week. You still must turn in your assignments before your live session meets. Late days will be counted at the end of the semester.  You must keep your own tally of how many late days you have used.
 - **Tests**: Tests count for a larger proportion of the final course grade, and happen less frequently. As a result, we would like tests to be completed on time.
 - **Labs**: The labs in the course are group projects. We will expect that labs are turned in for instructor review, in whatever state they are in, at the time they are due. 
   
