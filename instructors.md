@@ -2,7 +2,7 @@
 
 | Instructor        | Slack Handle       | Class Times           | Office Hours (pacific) |
 |-------------------|--------------------|-----------------------|------------------------|
-| Sushovan Majhi    | @sush              | Tu: 2p and 4p         | M: 5:30-7:30 PM        |
+| Sushovan Majhi    | @sush              | Tu: 2p and 4p         | Tu: 5:30-7:30 PM        |
 | Paul Laskowski    | @paul              | M:   2p               | W: 2:00-3:30 PM        |
 | Alex Hughes       | @alex.h            | Tu:  6:30p            | W: 5:30 PM             |
 | Lee Moore         | @lee               | W:   6:30p            | F:  3:00 PM            |
