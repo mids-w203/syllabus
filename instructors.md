@@ -9,6 +9,7 @@
 | Lee Moore         | @lee               | W:   6:30p            | F:  3:00 PM            |
 | Oleg Melinokv     | @Oleg Melnikov     | Tu: 4p and W: 4p      | Sa: 5:00 PM            |
 | Mark Labovitz     | @Mark L Labovitz   | Sa: 10a               | Su: 9:00 AM            |
+| Bill Chung        | @Bill Chung        | Th: 6:30p             | Th: 8:10 PM            |
 
 ## Teaching Assistants
 
@@ -17,6 +18,5 @@
 | Gurdit Chahal      | @gurdit_c             | Tu: 2:30p      |
 | Todd Young         | @todd.young           | W:  5:30-6:30p |
 | Kevin Martin       | @kmart                | Th: 3:00p      |
-| Bill Chung         | @KOOHONG (a.k.a Bill) | Th: 5:30p      |
 | Lesley Matheson    | @Lesley Matheson      | Su: 6p         |
 
