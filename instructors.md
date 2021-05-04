@@ -16,7 +16,7 @@
 | Teaching Assistant | Slack                 | Office Hours   |
 |--------------------|-----------------------|----------------|
 | Kevin Martin       | @kmart                | Th: 3:00p      |
-| Gurdit Chahal      | @gurdit_c             | Tu: 2:30p      |
+| Gurdit Chahal      | @gurdit_c             | Tu: 8:00 AM    |
 | Lesley Matheson    | @Lesley Matheson      | Su: 6p         |
 | Mal Moran          | @Mal                  |                | 
 | Ren Tu             | @Ren Tu               |                | 
