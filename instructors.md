@@ -6,7 +6,7 @@
 | Paul Laskowski    | @paul              | M:   2p               | W: 2:00-3:30 PM        |
 | Alex Hughes       | @alex.h            | Tu:  4p and 6:30p     | Tu: 5:35 PM            |
 | Lee Moore         | @lee               | W:   4p and 6:30p     | F:  3:00 PM            |
-| Mark Labovitz     | @Mark L Labovitz   | Th:  10a and Sa: 10a  | Su: 9:00 AM            |
+| Mark Labovitz     | @Mark L Labovitz   | Th:  4p & Sa: 8,10a   | Su: 9:00 AM            |
 | Todd Young        | @todd.young        | Th:  6:30p            | F: 7:30 AM             | 
 | Oleg Melinokv     | @Oleg Melnikov     | Tu: 4p and W: 4p      | Sa: 5:00 PM            |
 | Bill Chung        | @Bill Chung        | Th: 6:30p             | Th: 8:10 PM            |
