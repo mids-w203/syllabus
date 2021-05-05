@@ -20,6 +20,6 @@
 | Lesley Matheson        | @Lesley Matheson  | Su: 6:00 PM    |
 | Mal Moran              | @Mal              | Th: 6:00 PM    | 
 | Ren Tu                 | @Ren Tu           | F: 5:30 PM     | 
-| Prathyusha Charagondla | @Prathyusha       |                | 
+| Prathyusha Charagondla | @Prathyusha       | W: 5:00 PM     | 
 | Kyle Chuang            | @kylec            |                | 
 
