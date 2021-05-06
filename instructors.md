@@ -7,7 +7,7 @@
 | Alex Hughes       | @alex.h            | Tu: 4p and 6:30p      | Th: 4:00 PM            |
 | Lee Moore         | @lee               | W:  4p and 6:30p      | F:  3:00 PM            |
 | Mark Labovitz     | @Mark L Labovitz   | Th: 4p & Sa: 8,10a    | Su: 9:00 AM            |
-| Todd Young        | @todd.young        | Th: 6:30p             | F: 7:30 AM             | 
+| Todd Young        | @todd.young        | Th: 6:30p             | W:  7:00 PM            | 
 | Bill Chung        | @Bill Chung        | Th: 6:30p             | Th: 8:10 PM            |
 
 ## Teaching Assistants
