@@ -17,7 +17,7 @@
 | Kevin Martin           | @kmart            | W: 6:00 PM     | Review Async Concepts w/ notes + examples |
 | Gurdit Chahal          | @gurdit_c         | Tu: 8:00 AM    | R programming                             |
 | Lesley Matheson        | @Lesley Matheson  | Su: 6:00 PM    | Generalist  | 
-| Mal Moran              | @Mal              | Th: 6:00 PM    | Generalist  |
+| Mal Moran              | @Mal              | Th: 6:00 PM    | R programming  |
 | Ren Tu                 | @Ren Tu           | F: 5:30 PM     | Generalist  |
 | Prathyusha Charagondla | @Prathyusha       | W: 5:00 PM     | Generalist  |
 | Kyle Chuang            | @kylec            | Tu: 8:00 PM    | Generalist  |
