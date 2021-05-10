@@ -12,13 +12,13 @@
 
 ## Teaching Assistants
 
-| Teaching Assistant     | Slack             | Office Hours   |OH Speciality |
-|------------------------|-------------------|----------------|--------------|
-| Kevin Martin           | @kmart            | W: 6:00 PM     | Review Async |
-| Gurdit Chahal          | @gurdit_c         | Tu: 8:00 AM    | R            |
-| Lesley Matheson        | @Lesley Matheson  | Su: 6:00 PM    |   | 
-| Mal Moran              | @Mal              | Th: 6:00 PM    |   |
-| Ren Tu                 | @Ren Tu           | F: 5:30 PM     |   |
-| Prathyusha Charagondla | @Prathyusha       | W: 5:00 PM     |   |
-| Kyle Chuang            | @kylec            | Tu: 8:00 PM    |   |
+| Teaching Assistant     | Slack             | Office Hours   | OH Speciality (TA expertise / OH Focus)   |
+|------------------------|-------------------|----------------|-------------------------------------------|
+| Kevin Martin           | @kmart            | W: 6:00 PM     | Review Async Concepts w/ notes + examples |
+| Gurdit Chahal          | @gurdit_c         | Tu: 8:00 AM    | R programming                             |
+| Lesley Matheson        | @Lesley Matheson  | Su: 6:00 PM    | Generalist  | 
+| Mal Moran              | @Mal              | Th: 6:00 PM    | Generalist  |
+| Ren Tu                 | @Ren Tu           | F: 5:30 PM     | Generalist  |
+| Prathyusha Charagondla | @Prathyusha       | W: 5:00 PM     | Generalist  |
+| Kyle Chuang            | @kylec            | Tu: 8:00 PM    | Generalist  |
 
