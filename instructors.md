@@ -20,5 +20,5 @@
 | Mal Moran              | @Mal              | Th: 6:00 PM    | R programming  |
 | Ren Tu                 | @Ren Tu           | F: 5:30 PM     | Generalist  |
 | Prathyusha Charagondla | @Prathyusha       | W: 5:00 PM     | Generalist  |
-| Kyle Chuang            | @kylec            | Tu: 8:00 PM    | Generalist  |
+| Kyle Chuang            | @kylec            | Tu: 7:30 PM    | Generalist  |
 
