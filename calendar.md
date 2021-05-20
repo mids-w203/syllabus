@@ -9,7 +9,7 @@
 | 5    | Three | Learning from Random Samples        | FOAS 3.2-3.2.1-3.2.2-3.2.3-3.2.4-3.2.5(Optional)-3.2.6-3.3.2(Optional)                      | Unit 5 HW                   | Unit 4 HW & Test 1                 |
 | 6    | Two   | Hypothesis Testing                  | Devore 8.1-8.2-8.4                                                                          | Unit 6 HW & Test 2      | Unit 5 HW                          |
 | 7    | Two   | Comparing Means                     | FOAS 1                                                                                      | Hypothesis Testing Lab | Unit 6 HW & Test 2               |
-| 8    | Two   | Large-Sample Regression Theory      | FOAS 1                                                                                      | Unit 8 HW      | Test 2                              |
+| 8    | Two   | Large-Sample Regression Theory      | FOAS 1                                                                                      | Unit 8 HW      |                               |
 | 9    | Three | Descriptive Model Building          | FOAS 1                                                                                      | Unit 9 HW                   | Hypothesis Testing Lab & Unit 8 HW  |
 | 10   | Three | Explanatory Model Building          | FOAS 1                                                                                      | Unit 10 HW                  | Unit 9 HW                           |
 | 11   | Two   | The Classical Linear Model          | FOAS 1                                                                                      | Regression Lab & Unit 11 HW | Unit 10 HW                         |
