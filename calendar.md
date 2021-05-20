@@ -6,9 +6,9 @@
 | 2    | Two   | Defining Random Variables           | FOAS 1.2.0-1.3.4                                                                            | Unit 2 HW                   | Unit 1 HW          |
 | 3    | Two   | Summarizing Distributions           | FOAS 2.0-2.2.2                                                                              | Unit 3 HW                   | Unit 2 HW          |
 | 4    | Two   | Conditional Expectation and The BLP | FOAS 2.2.3-2.3                                                                              | Unit 4 HW & Test 1          | Unit 3 HW          |
-| 5    | Three | Learning from Random Samples        | FOAS 1                                                                                      | Unit 5 HW                   | Unit 4 HW & Test 1 |
-| 6    | Three | Hypothesis Testing                  | FOAS 1                                                                                      | Test 2                      | Unit 5 HW          |
-| 7    | Two   | Comparing Two Groups                | FOAS 1                                                                                      | Unit 7 HW                   | Test 2             |
+| 5    | Three | Learning from Random Samples        | FOAS 3.0-3.3                                                                                | Unit 5 HW                   | Unit 4 HW & Test 1 |
+| 6    | Three | Hypothesis Testing                  | Devore 8.1, 8.2, 8.3, 8.4, (Optional 8.5)                                                   | Test 2                      | Unit 5 HW          |
+| 7    | Two   | Comparing Two Groups                | Devore 9.1, 9.2, 9.3, 9.4; 10.1, 10.2, 10.3, 10.4; 14.1, 14.2                               | Unit 7 HW                   | Test 2             |
 | 8    | Two   | OLS Regression Estimates            | FOAS 1                                                                                      | Hypothesis Testing Lab      | Unit 7 HW          |
 | 9    | One   | OLS Regression Inference            | FOAS 1                                                                                      | Unit 9 HW                   |                    |
 | 10   | Three | Descriptive Model Building          | FOAS 1                                                                                      | Unit 10 HW                  | Unit 9 HW          |
