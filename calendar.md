@@ -12,7 +12,7 @@
 | 8    | Two   | OLS Regression Estimates            | FOAS 1                                                                                      | Unit 8 HW                   | Unit 7 HW                          |
 | 9    | One   | OLS Regression Inference            | FOAS 1                                                                                      | Unit 9 HW                   | Unit 8 HW & Hypothesis Testing Lab |
 | 10   | Three | Descriptive Model Building          | FOAS 1                                                                                      | Unit 10 HW                  | Unit 9 HW                          |
-| 11   | Two   | Explanatory Model Building          | FOAS 1                                                                                      | Regression Lab & Unit 11 HW | Unit 10 HW                         |
+| 11   | Two   | Explanatory Model Building          | FOAS 1                                                                                      | Unit 11 HW & Regression Lab  | Unit 10 HW                         |
 | 12   | Three | The Classical Linear Model          | FOAS 1                                                                                      | Unit 12 HW                  | Unit 11 HW                         |
 | 13   | Two   | Reproducible Research               | FOAS 1                                                                                      |                             | Unit 12 HW                         |
 | 14   | One   | Maximum Likelihood Estimation       | FOAS 1                                                                                      |                             | Regression Lab                     |
