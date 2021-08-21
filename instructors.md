@@ -19,5 +19,5 @@
 | Ren Tu                 | @Ren Tu          | F: 5:30 PM   | Recent 203 Alumni Perspective                            |
 | Prathyusha Charagondla | @Prathyusha      | W:           | Recent 203 Alumni Perspective                            |
 | Kyle Chuang            | @kylec           | Tu: 7:30 PM  | Applications to Careers                                  |
-| Mai                    | @mai             | M: 5:30 PM   | Recent 203 Alumni Perspective                            |
+| Mai La                 | @Mai La          | M: 5:30 PM   | Recent 203 Alumni Perspective                            |
 | Inderpal               | @inderpal        | Th: 5:30 PM  | Recent MIDS Grad Perspective                             |
