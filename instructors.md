@@ -6,18 +6,18 @@
 | Paul Laskowski                          | @paul            | M: 2p and 4p          | Tu: 1:00p              | Math              |
 | Gunnar Kleeman                          | @gunnarklee      | M: 4p & 6:30p; Th: 4p | Mon: 8:00p, Thu: 3:00p | R Programming     |
 | Alex Hughes                             | @alex.h          | W: 4p and 6:30p       | Th: 4:00p              | R Programming     |
-| Mark Labovitz                           | @Mark L Labovitz | Th: 4p; Sa: 10a       | Su: 9:00 AM            | Homework          |
+| Mark Labovitz                           | @Mark L Labovitz | Th: 4p; Sa: 10a       | Su: 9:00a              | Homework          |
 | Bill Chung                              | @Bill Chung      | Th: 6:30p             | Th: 8:30p              | Linear Algebra    |
 
 ## Teaching Assistants
 
 | Teaching Assistant     | Slack            | Office Hours | OH Speciality (TA expertise / OH Focus)                  |
 |------------------------|------------------|--------------|----------------------------------------------------------|
-| Kevin Martin           | @kmart           | W: 5:30 PM   | Program-Wide Perspective & New Applications (with notes) |
-| Gurdit Chahal          | @gurdit_c        | Tu: 12:00 PM  | Math and Calculus                                       |
-| Lesley Matheson        | @Lesley Matheson | Mo: 8:00 PM  | Applications to Careers                                  |
-| Ren Tu                 | @Ren Tu          | F: 5:30 PM   | Recent 203 Alumni Perspective                            |
-| Prathyusha Charagondla | @Prathyusha      | W: 6:30 PM   | Recent 203 Alumni Perspective                            |
-| Kyle Chuang            | @kylec           | Tu: 7:30 PM  | Applications to Careers                                  |
-| Mai La                 | @Mai La          | M: 5:30 PM   | Recent 203 Alumni Perspective                            |
-| Inderpal               | @inderpal        | Th: 5:30 PM  | Recent MIDS Grad Perspective                             |
+| Kevin Martin (Lead TA) | @kmart           | W: 5:30p     | Program-Wide Perspective & New Applications (with notes) |
+| Gurdit Chahal          | @gurdit_c        | Tu: 12:00p   | Math and Calculus                                       |
+| Lesley Matheson        | @Lesley Matheson | Su: 2:00p    | Applications to Careers                                  |
+| Ren Tu                 | @Ren Tu          | F: 5:30p     | Recent 203 Alumni Perspective                            |
+| Prathyusha Charagondla | @Prathyusha      | W: 6:30p     | Recent 203 Alumni Perspective                            |
+| Kyle Chuang            | @kylec           | Tu: 7:30p    | Applications to Careers                                  |
+| Mai La                 | @Mai La          | M: 5:30p     | Recent 203 Alumni Perspective                            |
+| Inderpal               | @inderpal        | Th: 5:30p    | Recent MIDS Grad Perspective                             |
