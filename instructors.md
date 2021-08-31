@@ -14,7 +14,7 @@
 | Teaching Assistant     | Slack            | Office Hours | OH Speciality (TA expertise / OH Focus)                  |
 |------------------------|------------------|--------------|----------------------------------------------------------|
 | Kevin Martin (Lead TA) | @kmart           | W: 5:30p     | Program-Wide Perspective & New Applications (with notes) |
-| Gurdit Chahal          | @gurdit_c        | Tu: 12:00p   | Math and Calculus                                       |
+| Gurdit Chahal          | @gurdit_c        | Tu: 4:00p    | Math and Calculus , Careers                              |
 | Lesley Matheson        | @Lesley Matheson | Su: 2:00p    | Applications to Careers                                  |
 | Ren Tu                 | @Ren Tu          | F: 5:30p     | Recent 203 Alumni Perspective                            |
 | Prathyusha Charagondla | @Prathyusha      | W: 6:30p     | Recent 203 Alumni Perspective                            |
