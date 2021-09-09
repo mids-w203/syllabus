@@ -3,13 +3,9 @@
 There are two tests: 
 
 1. Probability Theory Test (covers material in units 1-3)
-2. Conditional Expectation, Best Linear Predictor, and Sampling Test (covers material in units 4-6)
+2. Conditional Expectation, Best Linear Predictor, and Sampling Test (covers material in units 4-5)
 
-We have two goals with these tests. We have designed questions to allow you to demonstrate your capabilities on each of these goals. 
-
-First, we want to provide you with an opportunity to recall course materials and apply the atomic concepts.  Questions that assess your ability in this domain will be relatively straightforward.  For example, we might ask you to compute the expected value of a random variable provided a pdf, or to report the conditional probability of an event. 
-
-Second, we want to give you the opportunity to stretch your abilities, and learn more through genuine challenges.  Questions in this category will require you to integrate multiple concepts in creative ways to form a coherent strategy. 
+We have two goals with these tests. First, we want to provide you with an opportunity to recall course materials and apply the atomic concepts. Second, we want to give you the opportunity to stretch your abilities, and learn more through genuine challenges.  
 
 ## What we have learned 
 This semester, we are placing the tests in a timed environment. We acknowledge that this is an artificial constraint. No client has ever said to a data scientist: 
@@ -22,7 +18,6 @@ We have also observed that the grade distribution on mathematical exams tends to
 
 ## How each test will be structured 
 
-- You will have a maximum of 3 hours to work on the test from the time you download it, to the time that you turn it back in. 
-- The questions will progress in difficulty.  The first questions will apply a single concept or calculation.  The last questions will require you to connect multiple concepts in creative ways to find a solution.
-- We expect that fewer than 5% of students will solve every problem.  Do not panic if you cannot solve some of them.
+- You will have a maximum of 3 hours to work on the test.
+- The questions will progress in difficulty. 
 - You must provide a proof for all questions.  It is not enough to compute the answer.
