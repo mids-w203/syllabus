@@ -4,7 +4,7 @@
 |-----------------------------------------|------------------|-----------------------|------------------------|-------------------|
 | Sushovan Majhi                          | @sush            | M: 2p; Tu: 2p & 4p    | M: 4:00-6:00p          | Practice Problems |
 | Paul Laskowski                          | @paul            | M: 2p and 4p          | Tu: 1:00p              | Math              |
-| Gunnar Kleeman                          | @gunnarklee      | M: 4p & 6:30p; Th: 4p | Mon: 8:00p, Thu: 3:00p | R Programming     |
+| Gunnar Kleeman                          | @gunnarklee      | M: 4p & 6:30p; Th: 4p | Mon: 8:00p, Thu: 6:30p | R Programming     |
 | Alex Hughes                             | @alex.h          | W: 4p and 6:30p       | Th: 4:00-6:00          | R Programming     |
 | Mark Labovitz                           | @Mark L Labovitz | Th: 4p; Sa: 10a       | Su: 9:00-11:00a        | Homework          |
 | Bill Chung                              | @Bill Chung      | Th: 6:30p             | Th: 8:30p              | Linear Algebra    |
