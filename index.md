@@ -7,6 +7,7 @@ Welcome to the quick access page for content that you're likely to use the most 
 - [[Link]](./tests/index.md): Description of Tests 
 - [[Link]](./labs/labs.md): Description of Labs 
 - [[Link]](./syllabus.md): Course Overview, Books, Grading, and Policies
+- [[Link]](./learning_objectives.md): Course Learning Objectives
 
 # Course Personnel and Availability 
 
