@@ -17,7 +17,7 @@
 | Gurdit Chahal          | @gurdit_c        | F: 10:00a     | Math and Calculus , Careers                              |
 | Lesley Matheson        | @Lesley Matheson | Su: 2:00p    | Applications to Careers                                  |
 | Ren Tu                 | @Ren Tu          | F: 5:30p     | Recent 203 Alumni Perspective                            |
-| Prathyusha Charagondla | @Prathyusha      | W: 6:30p     | Recent 203 Alumni Perspective                            |
+| Prathyusha Charagondla | @Prathyusha      | F: 8:00a     | Recent 203 Alumni Perspective                            |
 | Kyle Chuang            | @kylec           | Tu: 4:30p    | Applications to Careers                                  |
 | Mai La                 | @Mai La          | Tu: 5:30p    | Recent 203 Alumni Perspective                            |
 | Inderpal Kaur          | @Inderpal        | Th: 5:30p    | Recent 5YMIDS Grad Perspective                           |
