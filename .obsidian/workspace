@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "8c5f1343c6436956",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a6ce4046fa1c7e8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "calendar.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "705e2421b00b9286",
+    "type": "split",
+    "children": [
+      {
+        "id": "00e14f73464fad9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f41c16ecc0b2a73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "55b0d96fb9331b63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 183,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4a0b99ec912f5fed",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa44557acdc6239d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f56152cfb9fef19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "calendar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1a6ce4046fa1c7e8",
+  "lastOpenFiles": [
+    "calendar.md",
+    "assignments.md",
+    "index.md",
+    "instructors.md",
+    "learning_objectives.md",
+    "syllabus.md"
+  ]
+}
