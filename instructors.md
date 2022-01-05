@@ -17,7 +17,7 @@
 | Kyle Chuang            | @kylec           | M: 4:00p     | Applications to Careers                                  |
 | Prathyusha Charagondla | @Prathyusha      | M: 5:30p     | Recent 203 Alumni Perspective                            |
 | Kevin Martin (Lead TA) | @kmart           | Tu: 5:30p    | Program-Wide Perspective & New Applications (with notes) |
-| Mai La                 | @Mai La          | W: 4:00p     | Recent 203 Alumni Perspective                            |
+| Mai La                 | @Mai La          | W: 7:00p     | Recent 203 Alumni Perspective                            |
 | Inderpal Kaur          | @Inderpal        | Th: 6:30p    | Recent 5YMIDS Grad Perspective                           |
 | Gurdit Chahal          | @gurdit_c        | F: 10:00a    | Math and Calculus , Careers                              |
 | Ren Tu                 | @Ren Tu          | F: 3:00p     | Recent 203 Alumni Perspective                            |
