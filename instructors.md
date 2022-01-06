@@ -14,7 +14,7 @@
 
 | Teaching Assistant     | Slack            | Office Hours | OH Speciality (TA expertise / OH Focus)                  |
 |------------------------|------------------|--------------|----------------------------------------------------------|
-| Kyle Chuang            | @kylec           | T: 2:00p     | Applications to Careers                                  |
+| Kyle Chuang            | @kylec           | W: 2:00p     | Applications to Careers                                  |
 | Prathyusha Charagondla | @Prathyusha      | M: 5:30p     | Recent 203 Alumni Perspective                            |
 | Kevin Martin (Lead TA) | @kmart           | Tu: 5:30p    | Program-Wide Perspective & New Applications (with notes) |
 | Mai La                 | @Mai La          | W: 7:00p     | Recent 203 Alumni Perspective                            |
