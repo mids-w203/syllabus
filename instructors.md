@@ -5,7 +5,7 @@
 | Sushovan Majhi                          | @sush              | M: 2p & 4p; Tu: 2p    | Tu: 3:30-5:30p         | Practice Problems |
 | Paul Laskowski                          | @paul              | M: 2p and 4p          | Tu: 2:00-3:30p         | Math              |
 | Majid Maki-Nayeri                       | @Majid Maki-Nayeri | M & Tu: 4p; Tu: 6:30p | W: 5:00-7:00p          | Open Focus        | 
-| Gunnar Kleeman                          | @gunnarklee        | M: 4p & 6:30p; Th: 4p |                        | R Programming     |
+| Gunnar Kleeman                          | @gunnarklee        | M: 4p & 6:30p; Th: 4p | Th: 5:30-6:30p         | R Programming     |
 | Alex Hughes                             | @alex.h            | Th: 4p                | Th: 3:00               | R Programming     |
 | Bill Chung                              | @Bill Chung        | W, Th: 6:30p          | Fri: 5:00 - 7:00p      | Linear Algebra    |
 | Mark Labovitz                           | @Mark L Labovitz   | Tu & W: 4p            | Su: 9:00-11:00a        | Homework          |
