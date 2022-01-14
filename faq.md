@@ -21,7 +21,7 @@
 >the #datasci-203-github-gradescope-requests channel on slack indicating that you need to 
 >be added to the gradescope. 
 
-## How do I access to the course GitHub. My invite expired.
+## My GitHub invite expired, How do I access to the course repo?
 
 >You just need another invite. We can send you a new one. 
 >
@@ -33,8 +33,15 @@
 >instead of your GitHub username. We can send the invite to the email and you'll be prompted 
 >to create the account when you click through the invite. 
 
-## I have access to the GitHub but I can't clone it. 
+## I have access to the GitHub but I can't clone it. How do I clone it?
 
 >Since late 2021, GitHub has required "personal access tokens" to access GitHub resouces from 
 >the terminal. You can follow their docs to create one and then clone away. 
 >https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+## How do I find my section number?
+
+> 1. Log in to [CalCentral](https://calcentral.berkeley.edu/)
+> 1. Go to "My Academics" (at the top)
+> 1. From the "Semesters" box, click "DATASCI W203" 
+> 1. The section number is in the "Class Information" box. It's the 3 digit number following "WBL"
