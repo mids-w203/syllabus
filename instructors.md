@@ -2,13 +2,11 @@
 
 | Instructor                              | Slack Handle       | Class Times           | Office Hours (pacific) | Focus             |
 |-----------------------------------------|--------------------|-----------------------|------------------------|-------------------|
-| Sushovan Majhi                          | @sush              | Tu: 4p; W: 2p         | Tu: 5:30-7:30p         | Practice Problems |
-| Paul Laskowski                          | @paul              | M: 2p and 4p          | Tu: 2:00-3:30p         | Math              |
-| Majid Maki-Nayeri                       | @Majid Maki-Nayeri | M & Tu: 4p; Tu: 6:30p | W: 5:00-7:00p          | Homework        | 
-| Gunnar Kleeman                          | @gunnarklee        | M: 4p & 6:30p; Th: 4p | Th: 5:30-6:30p         | R Programming     |
-| Alex Hughes                             | @alex.h            | Th: 4p                | Th: 3:00               | R Programming     |
-| Bill Chung                              | @Bill Chung        | W, Th: 6:30p          | Fri: 5:00 - 7:00p      | Linear Algebra    |
-| Mark Labovitz                           | @Mark L Labovitz   | Tu & W: 4p            | Su: 9:00-11:00a        | Homework          |
+| Sushovan Majhi                          | @sush              | Tu: 4p; W: 4p         | Tu: 5:30-7:30p         | Practice Problems |
+| Paul Laskowski                          | @paul              | Tu: 2p           | M: 2p         | Math              |
+| Gunnar Kleeman                          | @gunnarklee        | W: 6:30p; Th: 4p & 6:30p | Th: 5:30-6:30p         | R Programming     |
+| Bill Chung                              | @Bill Chung        | F: 4p & 6:30p          | Fri: 5:00 - 7:00p      | Linear Algebra    |
+| Mark Labovitz                           | @Mark L Labovitz   | Tu: 4p & 6:30            | Su: 9:00-11:00a        | Homework          |
 
 ## Teaching Assistants
 
