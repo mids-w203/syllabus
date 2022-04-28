@@ -25,7 +25,7 @@ The course begins with an introduction to probability theory, with pencil-and-pa
 
 - **Labs** - There are two labs that are multi-week, group-projects. Labs are available on [[Github]](https://github.com/mids-w203) and will be submitted via [[Gradescope]](www.gradescope.com). Groups are typically between three and four students. Each lab includes a complete analysis, from data wrangling and statistical procedures, to writing a persuasive report.
 
-- **Slack Channel** - We use a slack channel, datasci-203-2022-spring, for official course announcements and general discussion. This is a public channel within the ucbischool.slack.com workspace.
+- **Slack Channel** - We use a slack channel, datasci-203-2022-spring, for official course announcements and general discussion. This is a public channel within the ucbischool.slack.com workspace. Please also join any section-specific slack channels that your live session instructor will announce.
 
 - **Practice Problems** - The course includes a set of curated [[practice problems]](http://w203.herokuapp.com/). Use your slack credentials to log in. Each problem comes with a comment functionality that you can use to share and discuss solutions. While optional, we highly recommend solving lots of practice problems each week. This is the best way to get really comfortable with probability theory and great preparation for the tests.
 
