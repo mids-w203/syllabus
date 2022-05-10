@@ -7,10 +7,10 @@
 >To get logged in to gradescope the first time please use the following steps:
 >
 >1. Click “Log In” in the upper right hand corner
->1. Put your “@ischool.berkeley.edu” email in on the email line
+>1. Put your **“@ischool.berkeley.edu”** email in on the email line (_Do **NOT** use your "@berkeley.edu" email_)
 >1. Click “Forgot your Password?”
 >1. Follow the reset link that gets sent  to your berkeley email
->1. Use your new password along with your “@ischool.berkeley.edu” email address to log in
+>1. Use your new password along with your **“@ischool.berkeley.edu”** email address to log in
 >
 >_Using the “School Credentials” option from the login won’t work and you’ll be taken to
 >a screen without any courses available for you to view._
@@ -20,6 +20,14 @@
 >case, put a message with your @ischool.berkeley.edu email, and your section number in
 >the #datasci-203-github-gradescope-requests channel on slack indicating that you need to 
 >be added to the gradescope. 
+
+## I already have a Gradescope login using my other (_@berkeley.edu_) email address. Can I merge the accounts?
+
+>You definitely can. From the lower left hand corner of Gradescope click "Account". In the small pop up click "Edit Account". In the window that comes up hit "Merge Accounts" and follow the prompts.
+>
+>![Merge Accounts Window View](./images/merge.png)
+>
+> After you merge the accounts, you'll see all of your classes from both accounts in a single view. You'll also be able to log in from either account and end up at the same page.
 
 ## My GitHub invite expired, How do I access to the course repo?
 
