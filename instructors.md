@@ -15,5 +15,5 @@
 | Kyle Chuang                       | @kylec           | T: 2:00p     | Applications to Careers                     |
 | Kevin Martin (Course Coordinator) | @kmart           | W: 5:30p     | High Level Concepts (with notes)            |
 | Inderpal Kaur                     | @Inderpal        | Th: 6:30p    | Recent 5YMIDS Grad Perspective              |
-| Gurdit Chahal                     | @gurdit_c        | F: 10:00a    | Math and Calculus , Careers                 |
+| Gurdit Chahal                     | @gurdit_c        | F: 12:00p    | Math and Calculus , Careers                 |
 | Amy Ho                            | @Amy Ho          | M: 5:30p     | Practice Problems                           |
