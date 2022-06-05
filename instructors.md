@@ -5,7 +5,7 @@
 | Sushovan Majhi                          | @sush              | Tu: 4p; W: 4p         | Tu: 5:30-7:30p         | Practice Problems |
 | Paul Laskowski                          | @paul              | Tu: 2p                | M: 2p                  | Math              |
 | Gunnar Kleemann                         | @gunnarklee        | W: 6:30p; Th: 4p & 6:30p | Fri: 2-4pm          | R Programming     |
-| Bill Chung                              | @Bill Chung        | F: 4p & 6:30p          | W: 7:00pm; Th: 7:00pm    | Linear Algebra    |
+| Bill Chung                              | @Bill Chung        | F: 4p & 6:30p          | W: 6:00pm; Th: 6:00pm    | Linear Algebra    |
 | Mark Labovitz                           | @Mark L Labovitz   | Tu: 4p & 6:30          | Su: 9:00-11:00a       | Homework          |
 
 ## Teaching Assistants
