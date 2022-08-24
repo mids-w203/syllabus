@@ -16,6 +16,6 @@
 | Kevin Martin (Course Coordinator) | @kmart           | W: 5:30p     | High Level Concepts (with notes)            |
 | Inderpal Kaur                     | @Inderpal        | Th: 6:30p    | Recent 5YMIDS Grad Perspective              |
 | Gurdit Chahal                     | @gurdit_c        | F: 12:00p    | Math and Calculus , Careers                 |
-| Amy Ho                            | @Amy Ho          | Tu: 5:30p    | Practice Problems                           |
+| Amy Ho                            | @Amy Ho          | F: 6:00p    | Practice Problems                           |
 
 _\* Note that you can ask anyone anything in office hour. The "OH Focus" is just something that the Instructor/TA generally likes to talk about_
