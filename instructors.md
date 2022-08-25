@@ -2,11 +2,12 @@
 
 | Instructor                              | Slack Handle       | Class Times              | Office Hours (pacific) | OH Focus\*        |
 |-----------------------------------------|--------------------|--------------------------|------------------------|-------------------|
-| Sushovan Majhi                          | @sush              | Tu: 4p & 4p              | M: 4p                  | Practice Problems |
-| Paul Laskowski                          | @paul              | Tu: 2p                   | M: 2p                  | Math              |
-| Alex Hughes                             | @alex.h            | Tu: 4p                   | W: 5:30p               | R Programming     |
-| Gunnar Kleemann                         | @gunnarklee        | Th: 4p & 6:30p           | Wed: 8:15p             | R Programming     |
+| Sushovan Majhi                          | @sush              | Tu: 4p & 4p              | M:  4p                 | Practice Problems |
+| Paul Laskowski                          | @paul              | Tu: 2p                   | M:  2p                 | Math              |
+| Alex Hughes                             | @alex.h            | Tu: 4p                   | W:  5:30p              | R Programming     |
+| Gunnar Kleemann                         | @gunnarklee        | Th: 4p & 6:30p           | W:  8:15p              | R Programming     |
 | Bill Chung                              | @Bill Chung        | F:  4p & 6:30p           | Th: 6:00-8:00p         | Linear Algebra    |
+| Tanya Roosta                            | @Tanya Roosta      | W:  4p                   | F:  4p                 | Real Life Stats   |
 | Mark Labovitz                           | @Mark L Labovitz   | Tu: 4p & 6:30            | Su: 9:00-11:00a        | Homework          |
 
 ## Teaching Assistants
