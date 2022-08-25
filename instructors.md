@@ -19,5 +19,5 @@
 | Inderpal Kaur                     | @Inderpal        | Th: 6:30p    | Recent 5YMIDS Grad Perspective              |
 | Gurdit Chahal                     | @gurdit_c        | F: 12:00p    | Math and Calculus , Careers                 |
 | Amy Ho                            | @Amy Ho          | F: 6:00p     | Practice Problems                           |
-
+| Philip Denkabe                    | @pdenkabe        | F: 3:00p     | Homework & Concepts                         |
 _\* Note that you can ask anyone anything in office hour. The "OH Focus" is just something that the Instructor/TA generally likes to talk about_
