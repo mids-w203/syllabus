@@ -2,7 +2,7 @@
 
 | Instructor                              | Slack Handle       | Class Times              | Office Hours (pacific) | OH Focus\*        |
 |-----------------------------------------|--------------------|--------------------------|------------------------|-------------------|
-| Sushovan Majhi                          | @sush              | Tu: 4p & 4p              | M:  4p                 | Practice Problems |
+| Sushovan Majhi                          | @sush              | Tu: 4p & 6:30p           | M:  6:30p              | Practice Problems |
 | Paul Laskowski                          | @paul              | Tu: 2p                   | M:  2p                 | Math              |
 | Alex Hughes                             | @alex.h            | Tu: 4p                   | W:  5:30p              | R Programming     |
 | Gunnar Kleemann                         | @gunnarklee        | Th: 4p & 6:30p           | W:  8:15p              | R Programming     |
