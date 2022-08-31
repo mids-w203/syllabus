@@ -14,7 +14,7 @@
 
 | Teaching Assistant                | Slack            | Office Hours | OH Focus\*                                  |
 |-----------------------------------|------------------|--------------|---------------------------------------------|
-| Kyle Chuang                       | @kylec           | W: 1:00p     | Applications to Careers                     |
+| Kyle Chuang                       | @kylec           | M: 2:00p     | Applications to Careers                     |
 | Kevin Martin (Course Coordinator) | @kmart           | M: 5:30p     | High Level Concepts (with notes)            |
 | Inderpal Kaur                     | @Inderpal        | Th: 6:30p    | Recent 5YMIDS Grad Perspective              |
 | Gurdit Chahal                     | @gurdit_c        | F: 12:00p    | Math and Calculus , Careers                 |
