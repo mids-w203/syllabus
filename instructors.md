@@ -15,6 +15,7 @@
 | Teaching Assistant                | Slack            | Office Hours | OH Focus\*                                  |
 |-----------------------------------|------------------|--------------|---------------------------------------------|
 | Kevin Martin (Course Coordinator) | @kmart           | M: 5:30p     | High Level Concepts (with notes)            |
+| Kyle Chuang                        | @kylec          | W: 4:00p     | General Questions                           |
 | Inderpal Kaur                     | @Inderpal        | Th: 6:30p    | Recent 5YMIDS Grad Perspective              |
 | Amy Ho                            | @Amy Ho          | F: 6:00p     | Practice Problems                           |
 | Philip Denkabe                    | @pdenkabe        | F: 3:00p     | Concepts                         |
